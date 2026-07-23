@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yaoguai-xh.github.io/sitemap.xml
+Sitemap: https://yaoguai-xh.github.io/one-page-business-tools/sitemap.xml

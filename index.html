@@ -3,11 +3,177 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="refresh" content="0; url=https://yaoguai-xh.github.io/one-page-business-tools/">
-    <link rel="canonical" href="https://yaoguai-xh.github.io/one-page-business-tools/">
-    <title>一页经营工具</title>
+    <title>一页经营工具 / One Page Business Tools</title>
+    <meta name="description" content="免费离线经营工具入口：Codex Safe Check、订单保本线、FixedBid Risk Buffer，以及中英指南和付费上架状态。">
+    <meta name="robots" content="index,follow">
+    <link rel="canonical" href="https://yaoguai-xh.github.io/">
+    <link rel="sitemap" type="application/xml" href="https://yaoguai-xh.github.io/sitemap.xml">
+    <meta property="og:title" content="一页经营工具 / One Page Business Tools">
+    <meta property="og:description" content="Small free offline business utilities for Codex CLI diagnostics, SKU profit checks, and fixed-price quote buffers.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://yaoguai-xh.github.io/">
+    <style>
+      :root {
+        color-scheme: light;
+        --ink: #111827;
+        --muted: #5b6472;
+        --line: #d9dee7;
+        --paper: #ffffff;
+        --bg: #f5f7f8;
+        --teal: #0f766e;
+        --amber: #b45309;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif;
+        color: var(--ink);
+        background: var(--bg);
+        line-height: 1.62;
+      }
+
+      a {
+        color: var(--teal);
+      }
+
+      .hero, .wrap {
+        max-width: 1080px;
+        margin: 0 auto;
+        padding: 44px 24px;
+      }
+
+      .hero {
+        min-height: 52vh;
+        display: grid;
+        align-content: center;
+      }
+
+      .eyebrow {
+        margin: 0 0 12px;
+        color: var(--amber);
+        font-size: 14px;
+        font-weight: 800;
+      }
+
+      h1 {
+        max-width: 920px;
+        margin: 0;
+        font-size: clamp(42px, 8vw, 86px);
+        line-height: 0.98;
+      }
+
+      .lead {
+        max-width: 760px;
+        margin: 24px 0 0;
+        color: var(--muted);
+        font-size: 20px;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 16px;
+      }
+
+      .card {
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--paper);
+        padding: 20px;
+      }
+
+      h2 {
+        margin: 0 0 12px;
+        font-size: 26px;
+      }
+
+      h3 {
+        margin: 0 0 8px;
+        font-size: 19px;
+      }
+
+      p {
+        margin: 0 0 12px;
+        color: var(--muted);
+      }
+
+      ul {
+        margin: 0;
+        padding-left: 20px;
+        color: var(--muted);
+      }
+
+      .notice {
+        border-left: 4px solid var(--amber);
+        padding: 12px 14px;
+        background: #fff7ed;
+      }
+
+      footer {
+        color: var(--muted);
+        font-size: 14px;
+      }
+
+      @media (max-width: 800px) {
+        .grid {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
   </head>
   <body>
-    <p><a href="https://yaoguai-xh.github.io/one-page-business-tools/">一页经营工具</a></p>
+    <main>
+      <section class="hero">
+        <p class="eyebrow">免费离线小工具 / Free offline utilities</p>
+        <h1>一页经营工具</h1>
+        <p class="lead">面向开发者、小电商卖家和固定报价自由职业者的静态工具入口。无需登录、无需后台、无需上传业务数据。</p>
+      </section>
+
+      <section class="wrap">
+        <h2>工具入口</h2>
+        <div class="grid">
+          <article class="card">
+            <h3>Codex Safe Check</h3>
+            <p>Codex CLI 安装、登录、代理、证书、CODEX_HOME 和连通性只读诊断。</p>
+            <p><a href="https://yaoguai-xh.github.io/codex-safe-check/zh.html">中文说明</a> · <a href="https://github.com/yaoguai-xh/codex-safe-check/issues/2">付费诊断状态</a></p>
+          </article>
+          <article class="card">
+            <h3>订单保本线 Lite</h3>
+            <p>估算退款、退货货损、双向物流、平台费和广告后的 SKU 每下单贡献利润。</p>
+            <p><a href="https://yaoguai-xh.github.io/order-profit-line/">在线试用</a> · <a href="https://github.com/yaoguai-xh/order-profit-line/issues/1">Pro 状态</a></p>
+          </article>
+          <article class="card">
+            <h3>FixedBid Risk Buffer</h3>
+            <p>Turn likely hours into a P80 quote floor for fixed-price software projects.</p>
+            <p><a href="https://yaoguai-xh.github.io/fixedbid-risk-buffer/">Try it</a> · <a href="https://github.com/yaoguai-xh/fixedbid-risk-buffer/issues/1">Pro status</a></p>
+          </article>
+        </div>
+      </section>
+
+      <section class="wrap">
+        <h2>总目录和指南</h2>
+        <ul>
+          <li><a href="https://yaoguai-xh.github.io/one-page-business-tools/">一页经营工具 Hub</a></li>
+          <li><a href="https://yaoguai-xh.github.io/one-page-business-tools/en.html">One Page Business Tools English Hub</a></li>
+          <li><a href="https://yaoguai-xh.github.io/one-page-business-tools/guides/codex-cli-troubleshooting.html">Codex CLI 装不上、登录失败、连不上时先查什么</a></li>
+          <li><a href="https://yaoguai-xh.github.io/one-page-business-tools/guides/refund-profit-calculator.html">退款、退货货损、双向物流和广告之后，SKU 还赚不赚钱</a></li>
+          <li><a href="https://yaoguai-xh.github.io/one-page-business-tools/guides/fixed-price-quote-calculator.html">Fixed-price software quote calculator and risk buffer guide</a></li>
+        </ul>
+      </section>
+
+      <section class="wrap">
+        <h2>付费链接状态</h2>
+        <p>正式收款链接尚未上线。上线前不通过私信、issue、评论或手动转账收款。</p>
+        <p><a href="https://github.com/yaoguai-xh/one-page-business-tools/issues/2">全部付费链接状态 / All paid-link status</a></p>
+        <div class="notice">不要发送密码、验证码、API Key、访问令牌、身份证件、完整日志、源码、完整配置、店铺后台截图、客户资料、项目机密或付款信息。</div>
+      </section>
+    </main>
+    <footer class="wrap">
+      <p>这些工具是独立小型经营辅助工具，不构成法律、税务、会计、投资、广告或收益保证建议。</p>
+    </footer>
   </body>
 </html>

@@ -1,0 +1,42 @@
+# 一页经营工具 / One Page Business Tools
+
+Root entry:
+https://yaoguai-xh.github.io/
+
+Hub:
+https://yaoguai-xh.github.io/one-page-business-tools/
+
+English Hub:
+https://yaoguai-xh.github.io/one-page-business-tools/en.html
+
+## Free tools
+
+- Codex Safe Check:
+  https://yaoguai-xh.github.io/codex-safe-check/zh.html
+- Order Profit Line Lite:
+  https://yaoguai-xh.github.io/order-profit-line/
+- FixedBid Risk Buffer:
+  https://yaoguai-xh.github.io/fixedbid-risk-buffer/
+
+## Guides
+
+- Codex CLI troubleshooting:
+  https://yaoguai-xh.github.io/one-page-business-tools/guides/codex-cli-troubleshooting.html
+- SKU refund profit:
+  https://yaoguai-xh.github.io/one-page-business-tools/guides/refund-profit-calculator.html
+- Fixed-price quote calculator:
+  https://yaoguai-xh.github.io/one-page-business-tools/guides/fixed-price-quote-calculator.html
+
+## Paid-link status
+
+- All paid-link status:
+  https://github.com/yaoguai-xh/one-page-business-tools/issues/2
+- Codex diagnosis:
+  https://github.com/yaoguai-xh/codex-safe-check/issues/2
+- Order Profit Line Pro:
+  https://github.com/yaoguai-xh/order-profit-line/issues/1
+- FixedBid Lab Pro:
+  https://github.com/yaoguai-xh/fixedbid-risk-buffer/issues/1
+
+The public tools are free. Paid links are not live yet. No private payment is
+accepted before public platform product URLs are published.
