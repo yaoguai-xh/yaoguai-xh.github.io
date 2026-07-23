@@ -26,6 +26,8 @@ https://yaoguai-xh.github.io/one-page-business-tools/en.html
   https://yaoguai-xh.github.io/one-page-business-tools/guides/refund-profit-calculator.html
 - Fixed-price quote calculator:
   https://yaoguai-xh.github.io/one-page-business-tools/guides/fixed-price-quote-calculator.html
+- One Page Business Tools FAQ:
+  https://yaoguai-xh.github.io/one-page-business-tools/faq.html
 - Codex sample diagnosis report:
   https://yaoguai-xh.github.io/codex-safe-check/sample-report.html
 - Order Profit Line sample SKU:
