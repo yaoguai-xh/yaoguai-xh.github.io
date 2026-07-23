@@ -28,6 +28,8 @@ https://yaoguai-xh.github.io/one-page-business-tools/en.html
   https://yaoguai-xh.github.io/one-page-business-tools/guides/fixed-price-quote-calculator.html
 - One Page Business Tools FAQ:
   https://yaoguai-xh.github.io/one-page-business-tools/faq.html
+- Launch interest and safe purchase-intent forms:
+  https://yaoguai-xh.github.io/one-page-business-tools/interest.html
 - Codex sample diagnosis report:
   https://yaoguai-xh.github.io/codex-safe-check/sample-report.html
 - Order Profit Line sample SKU:
@@ -53,6 +55,8 @@ https://yaoguai-xh.github.io/one-page-business-tools/en.html
   https://github.com/yaoguai-xh/order-profit-line/issues/1
 - FixedBid Lab Pro:
   https://github.com/yaoguai-xh/fixedbid-risk-buffer/issues/1
+- Safe purchase-intent forms:
+  https://yaoguai-xh.github.io/one-page-business-tools/interest.html
 
 The public tools are free. Paid links are not live yet. No private payment is
 accepted before public platform product URLs are published.
