@@ -43,6 +43,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://yaoguai-xh.github.io/ai-api-budget-guard/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://yaoguai-xh.github.io/codex-safe-check/sample-report.html</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>

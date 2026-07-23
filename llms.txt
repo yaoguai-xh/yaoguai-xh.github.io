@@ -17,6 +17,8 @@ https://yaoguai-xh.github.io/one-page-business-tools/en.html
   https://yaoguai-xh.github.io/order-profit-line/
 - FixedBid Risk Buffer:
   https://yaoguai-xh.github.io/fixedbid-risk-buffer/
+- AI API Budget Guard:
+  https://yaoguai-xh.github.io/ai-api-budget-guard/
 
 ## Guides
 
@@ -30,6 +32,8 @@ https://yaoguai-xh.github.io/one-page-business-tools/en.html
   https://yaoguai-xh.github.io/one-page-business-tools/faq.html
 - Launch interest and safe purchase-intent forms:
   https://yaoguai-xh.github.io/one-page-business-tools/interest.html
+- AI API Budget Guard free calculator:
+  https://yaoguai-xh.github.io/ai-api-budget-guard/
 - Codex sample diagnosis report:
   https://yaoguai-xh.github.io/codex-safe-check/sample-report.html
 - Order Profit Line sample SKU:
@@ -55,6 +59,8 @@ https://yaoguai-xh.github.io/one-page-business-tools/en.html
   https://github.com/yaoguai-xh/order-profit-line/issues/1
 - FixedBid Lab Pro:
   https://github.com/yaoguai-xh/fixedbid-risk-buffer/issues/1
+- AI API Budget Guard Pro:
+  https://github.com/yaoguai-xh/ai-api-budget-guard/issues/1
 - Safe purchase-intent forms:
   https://yaoguai-xh.github.io/one-page-business-tools/interest.html
 
