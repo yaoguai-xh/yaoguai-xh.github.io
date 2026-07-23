@@ -38,6 +38,10 @@ https://yaoguai-xh.github.io/one-page-business-tools/en.html
   https://gist.github.com/yaoguai-xh/63d11bbb77b705d048872317c3edb19d
 - GitHub Release v1.0.0:
   https://github.com/yaoguai-xh/one-page-business-tools/releases/tag/v1.0.0
+- Free bundle ZIP:
+  https://github.com/yaoguai-xh/one-page-business-tools/releases/download/v1.0.0/one-page-business-tools-free-bundle-v1.0.0.zip
+- Free bundle SHA256SUMS:
+  https://github.com/yaoguai-xh/one-page-business-tools/releases/download/v1.0.0/SHA256SUMS.txt
 
 ## Paid-link status
 
